@@ -25,6 +25,9 @@ Shalom Upholstery is a professional business website built to showcase upholster
 ## 📸 Screenshots
 ![Homepage](images/home.png)
 ![Services](images/services.png)
+![Services](images/work.png)
+![Services](images/form.png)
+![Services](images/footer.png)
 
 ## 🚀 Deployment
 The website is deployed using professional hosting and a custom domain.
